@@ -2,6 +2,15 @@
 
 <list>
 <!-- Inventory items-->
+    <h1>Inventory</h1>
+
+    <div>
+        <label for="">Item Name:</rare pistol>
+        <input type="text" id="rarepistol" placeholder="Enter item name">
+        <label for="1">Quantity:</label>
+        <input type="218" id="itemQuantity" placeholder="Enter quantity">
+        <button onclick="addItem(218)">Add to Inventory</button>
+
 <text>
 	<id>1</id>
 	<name>Food +30
