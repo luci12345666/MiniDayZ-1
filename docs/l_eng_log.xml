@@ -16,12 +16,12 @@
 
 <text>
 	<id>3</id>
-	<name>I can feel blood dripping.</name>
+	<name>I can feel  dripping oh its red orange juice.</name>
 </text>
 
 <text>
 	<id>4</id>
-	<name>I'm freezing.</name>
+	<name>I'm freezing wheres the microwave.</name>
 </text>
 
 <text>
@@ -31,53 +31,53 @@
 
 <text>
 	<id>6</id>
-	<name>I'm dying of dehydration.</name>
+	<name>I'm dying of water.</name>
 </text>
 
 <text>
 	<id>7</id>
-	<name>I found something in this trunk.</name>
+	<name>I found something thats probably useless 90% of the time</name>
 </text>
 
 <text>
 	<id>8</id>
-	<name>There is nothing in this trunk.</name>
+	<name>There is nothing </name>
 </text>
 
 <!--Player phrase: when no ammo for reloading-->
 <text>
 	<id>9</id>
-	<name>No more ammo.</name>
+	<name>No i dont feel like shooting.</name>
 </text>
 <!--Player phrase: when ranged weapon is empited-->
 <text>
 	<id>10</id>
-	<name>Mag empty.</name>
+	<name>i lack the motivation to reload myself</name>
 </text>
 
 <text>
 	<id>11</id>
-	<name>Weapon ruined!</name>
+	<name>Weapon dead!</name>
 </text>
 
 <text>
 	<id>12</id>
-	<name>There's no water in this pump.</name>
+	<name>There's no water here.</name>
 </text>
 
 <text>
 	<id>13</id>
-	<name>I don't want to drink.</name>
+	<name>I don't want die from dysentary</name>
 </text>
 
 <text>
 	<id>14</id>
-	<name>I've eaten a raw steak.</name>
+	<name>I've eaten a raw steak... what the hells wrong with you</name>
 </text>
 
 <text>
 	<id>15</id>
-	<name>I need a water pump for that.</name>
+	<name>I need a water pump for that. L</name>
 </text>
 
 <text>
@@ -87,12 +87,12 @@
 
 <text>
 	<id>17</id>
-	<name>I've eaten </name>
+	<name>I've tasted the rainbow </name>
 </text>
 
 <text>
 	<id>18</id>
-	<name>I've drunk </name>
+	<name>I'm drunk </name>
 </text>
 
 <text>
@@ -102,12 +102,12 @@
 
 <text>
 	<id>32</id>
-	<name>Weapon fully loaded.</name>
+	<name>Weapon loaded.boom boom?</name>
 </text>
 
 <text>
 	<id>33</id>
-	<name>Ammo loaded.</name>
+	<name>Ammo loaded. YAY im now motivated</name>
 </text>
 
 <!--Player phrase: when trying to load wrong ammo-->
